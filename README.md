@@ -2,6 +2,8 @@
 
 Flash Chat is an internet based messaging app similar to WhatsApp. I used a service called Firebase Firestore as a backend database to store and retrieve our messages from the cloud. 
 
+Your messages are marked with the "ME" avatar, other chat users are marked with the "YOU" avatar. 
+
 Using: 
 
 * MVC
